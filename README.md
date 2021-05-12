@@ -4,3 +4,8 @@
 [terraform]: https://www.terraform.io/downloads.html 
 
 #### Terraform: Automatize a infraestrutura na nuvem
+
+---
+
+Criar a chave ssh;
+
