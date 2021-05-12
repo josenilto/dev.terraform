@@ -9,3 +9,4 @@
 
 Criar a chave ssh;
 
+ssh-keygen -t rsa -b 4096 -C "nome@email.com.br"
