@@ -1,0 +1,6 @@
+{
+    "codedeploy.region": "us-east-2",
+    "codedeploy.applicationName": "josenilto.luis",
+    "codedeploy.isApplicationWorkspace": true,
+    "terminal.integrated.tabs.enabled": true
+}
