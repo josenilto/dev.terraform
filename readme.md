@@ -1,5 +1,5 @@
 
-[<img title="Terraform" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />][terraform]
+[<img title="Terraform" align="left" alt="Terraform" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />][terraform]
 
 [terraform]: https://www.terraform.io/downloads.html 
 
