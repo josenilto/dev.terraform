@@ -10,3 +10,8 @@
 Criar a chave ssh;
 
 ssh-keygen -t rsa -b 4096 -C "nome@email.com.br"
+
+
+<h4 align="center"> 
+	🚧 Tutorial de instalação 🚀 Em construção...  🚧	
+</h4>
