@@ -21,10 +21,10 @@ Interaja com os diversos recursos suportados pelo Oracle Cloud Infrastructure po
 #### ➡️ Links:
 
 [<img title="terraform" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" />][terraform]
-[<img title="Grafana Labs" align="left" alt="josenilto | Twitter" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img title="terraform Labs" align="left" alt="josenilto | Twitter" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [terraform]: https://registry.terraform.io/namespaces/hashicorp
-[Website]: https://grafana.com/grafana/
+[Website]: https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 
 
 <h4 align="center"> 
