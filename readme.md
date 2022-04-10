@@ -8,11 +8,11 @@ Terraform é uma ferramenta para construir, alterar e criar versões de infraest
 ### Princiapais Características ?
 
 * Infraestutura como código ( IaC )
-	Open source e declarativo
-	Permite versionamento ( evolução da infraestrutura e automação )
-	Idempotente
-	Sintaxe high-level e reusável
-	Paridade de ambiente
+	- Open source e declarativo
+	- Permite versionamento ( evolução da infraestrutura e automação )
+	- Idempotente
+	- Sintaxe high-level e reusável
+	- Paridade de ambiente
 
 * Plano de execução
 	Segurança e previsibilidade 
