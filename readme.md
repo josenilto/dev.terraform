@@ -35,7 +35,7 @@ Terraform é uma ferramenta para construir, alterar e criar versões de infraest
 	- O estado atual, que é gerenciado pelo Terraform.
  
 * Providers: Os provedores expõem recursos, o que possibilita a criação de infraestrutura em todas essas plataformas;
-	- IaaS: AWS, GCP, OCI, Azure
+	- IaaS: AWS, GCP, OCI, VMWARE, Azure
 	- PaaS: Kubernetes, Heroku, Digital Ocean
 	- SaaS: New Relic, Datadog
 
