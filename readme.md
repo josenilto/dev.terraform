@@ -1,5 +1,5 @@
 
-## 🛠 Dev Terraform | Automatize a infraestrutura na nuvem
+## 🛠 Dev Terraform | Automatizando sua infraestrutura
 
 ✅ ***O que é Terraform ?***
 
