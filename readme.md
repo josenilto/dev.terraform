@@ -1,6 +1,11 @@
 
 ### 🛠 Dev Terraform | Automatize a infraestrutura na nuvem
 
+## O que é Terraform ?
+
+Terraform é uma ferramenta para construir, alterar e criar versões de infraestrutura com segurança e eficiência através de código.
+
+
 Gerenciamento do ciclo de vida dos recursos da AWS, incluindo EC2, Lambda, EKS, ECS, VPC, S3, RDS, DynamoDB e muito mais. Esse provedor é mantido internamente pela equipe do HashiCorp AWS Provider.  
 
 Gerenciamento do ciclo de vida dos recursos do GCP, incluindo Compute Engine, Cloud Storage, Cloud SDK, Cloud SQL, GKE, BigQuery, Cloud Functions e muito mais. Este provedor é mantido de forma colaborativa pela equipe do Google Terraform no Google e pela equipe do Terraform na HashiCorp.  
