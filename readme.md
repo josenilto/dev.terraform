@@ -22,7 +22,11 @@ Terraform é uma ferramenta para construir, alterar e criar versões de infraest
 	- Agnóstico
 	- Permite deployar para múltiplos provedores simultaneamente
 	
+## Casos de uso
 
+* Crair ou provisionar uma nova infraestrutura;
+* Gerencia a infraestrutura existente;
+* Replicar a infraestrutura.
 
 Gerenciamento do ciclo de vida dos recursos da AWS, incluindo EC2, Lambda, EKS, ECS, VPC, S3, RDS, DynamoDB e muito mais. Esse provedor é mantido internamente pela equipe do HashiCorp AWS Provider.  
 
