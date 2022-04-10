@@ -5,6 +5,12 @@
 
 Terraform é uma ferramenta para construir, alterar e criar versões de infraestrutura com segurança e eficiência através de código.
 
+### Princiapais Características ?
+
+Infraestutura como código ( IaC )
+	Open source e declarativo
+	Permite versionamento ( evolução da infraestrutura e automação )
+
 
 Gerenciamento do ciclo de vida dos recursos da AWS, incluindo EC2, Lambda, EKS, ECS, VPC, S3, RDS, DynamoDB e muito mais. Esse provedor é mantido internamente pela equipe do HashiCorp AWS Provider.  
 
