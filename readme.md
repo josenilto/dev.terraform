@@ -52,7 +52,28 @@ Terraform é uma ferramenta de alto nível de orquestração de infraestrutura.
 
 
 
+✅ ***Computação em Nuvem***
 
+* SAAS
+	- Aplicação
+
+* FAAS
+	- Função
+
+* PAAS
+	- Executáveis e Containers
+
+* CAAS
+	- Ferramentas de Gestão
+
+* IAAS
+	- Servidores, Storage, Rede
+
+
+✅ ***Tradicional***
+
+* Co-Location
+	- DataCenter
 
 
 
