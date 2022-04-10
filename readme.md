@@ -39,6 +39,17 @@ Terraform é uma ferramenta para construir, alterar e criar versões de infraest
 	- PaaS: Kubernetes, Heroku, Digital Ocean
 	- SaaS: New Relic, Datadog
 
+### Terraform Vs. Outros Softwares
+
+Terraform é uma ferramenta de alto nível de orquestração de infraestrutura.
+
+* Ansible, Puppet, Chef e outro ferramentas de gerenciamento de configuração;
+	- Não é a intenção gerenciar configuração;
+	- Provedores podem usar essas ferramentas.
+
+* CloudFormation e outras ferramentas IaC:
+	- Dá suporte para apenas apenas um vendor específico.
+
 
 Gerenciamento do ciclo de vida dos recursos da AWS, incluindo EC2, Lambda, EKS, ECS, VPC, S3, RDS, DynamoDB e muito mais. Esse provedor é mantido internamente pela equipe do HashiCorp AWS Provider.  
 
