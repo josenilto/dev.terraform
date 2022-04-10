@@ -7,18 +7,18 @@ Terraform é uma ferramenta para construir, alterar e criar versões de infraest
 
 ### Princiapais Características ?
 
-* Infraestutura como código ( IaC )
+* Infraestutura como código ( IaC );
 	- Open source e declarativo
 	- Permite versionamento ( evolução da infraestrutura e automação )
 	- Idempotente
 	- Sintaxe high-level e reusável
 	- Paridade de ambiente
 
-* Plano de execução
+* Plano de execução;
 	- Segurança e previsibilidade 
 	- Separação de planejamento e aplicação
 	
-* Híbrido
+* Híbrido;
 	- Agnóstico
 	- Permite deployar para múltiplos provedores simultaneamente
 	
@@ -34,7 +34,7 @@ Terraform é uma ferramenta para construir, alterar e criar versões de infraest
 	- Seus arquivos de configuração (seu estado desejado);
 	- O estado atual, que é gerenciado pelo Terraform.
  
-* Providers: Os provedores expõem recursos, o que possibilita a criação de infraestrutura em todas essas plataformas:
+* Providers: Os provedores expõem recursos, o que possibilita a criação de infraestrutura em todas essas plataformas;
 	- IaaS: AWS, GCP, Azure
 	- PaaS: Kubernetes, Heroku, Digital Ocean
 	- SaaS: New Relic, Datadog
@@ -47,7 +47,7 @@ Terraform é uma ferramenta de alto nível de orquestração de infraestrutura.
 	- Não é a intenção gerenciar configuração;
 	- Provedores podem usar essas ferramentas.
 
-* CloudFormation e outras ferramentas IaC:
+* CloudFormation e outras ferramentas IaC;
 	- Dá suporte para apenas apenas um vendor específico.
 
 
