@@ -22,7 +22,7 @@ Terraform é uma ferramenta para construir, alterar e criar versões de infraest
 	- Agnóstico
 	- Permite deployar para múltiplos provedores simultaneamente
 	
-✅ ***Casos de uso***
+✅ ***Casos de uso;***
 
 * Crair ou provisionar uma nova infraestrutura;
 * Gerencia a infraestrutura existente;
