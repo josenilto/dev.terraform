@@ -28,6 +28,18 @@ Terraform é uma ferramenta para construir, alterar e criar versões de infraest
 * Gerencia a infraestrutura existente;
 * Replicar a infraestrutura.
 
+### Como o Terraform funciona ?
+
+* Core do Terraform usa duas fontes de entrada;
+	- Seus arquivos de configuração (seu estado desejado);
+	- O estado atual, que é gerenciado pelo Terraform.
+ 
+* Providers: Os provedores expõem recursos, o que possibilita a criação de infraestrutura em todas essas plataformas:
+	- IaaS: AWS, GCP, Azure
+	- PaaS: Kubernetes, Heroku, Digital Ocean
+	- SaaS: New Relic, Datadog
+
+
 Gerenciamento do ciclo de vida dos recursos da AWS, incluindo EC2, Lambda, EKS, ECS, VPC, S3, RDS, DynamoDB e muito mais. Esse provedor é mantido internamente pela equipe do HashiCorp AWS Provider.  
 
 Gerenciamento do ciclo de vida dos recursos do GCP, incluindo Compute Engine, Cloud Storage, Cloud SDK, Cloud SQL, GKE, BigQuery, Cloud Functions e muito mais. Este provedor é mantido de forma colaborativa pela equipe do Google Terraform no Google e pela equipe do Terraform na HashiCorp.  
