@@ -1,7 +1,7 @@
 
-### 🛠 Dev Terraform | Automatize a infraestrutura na nuvem
+## 🛠 Dev Terraform | Automatize a infraestrutura na nuvem
 
-## O que é Terraform ?
+### O que é Terraform ?
 
 Terraform é uma ferramenta para construir, alterar e criar versões de infraestrutura com segurança e eficiência através de código.
 
