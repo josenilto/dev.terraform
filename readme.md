@@ -15,12 +15,12 @@ Terraform é uma ferramenta para construir, alterar e criar versões de infraest
 	- Paridade de ambiente
 
 * Plano de execução
-	Segurança e previsibilidade 
-	Separação de planejamento e aplicação
+	- Segurança e previsibilidade 
+	- Separação de planejamento e aplicação
 	
 * Híbrido
-	Agnóstico
-	Permite deployar para múltiplos provedores simultaneamente
+	- Agnóstico
+	- Permite deployar para múltiplos provedores simultaneamente
 	
 
 
