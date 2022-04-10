@@ -5,7 +5,7 @@
 
 Terraform é uma ferramenta para construir, alterar e criar versões de infraestrutura com segurança e eficiência através de código.
 
-✅ ### Princiapais Características ?
+✅ ***Princiapais Características ?***
 
 * Infraestutura como código ( IaC );
 	- Open source e declarativo
@@ -22,13 +22,13 @@ Terraform é uma ferramenta para construir, alterar e criar versões de infraest
 	- Agnóstico
 	- Permite deployar para múltiplos provedores simultaneamente
 	
-### Casos de uso
+✅ ***Casos de uso***
 
 * Crair ou provisionar uma nova infraestrutura;
 * Gerencia a infraestrutura existente;
 * Replicar a infraestrutura.
 
-### Como o Terraform funciona ?
+✅ ***Como o Terraform funciona ?***
 
 * Core do Terraform usa duas fontes de entrada;
 	- Seus arquivos de configuração (seu estado desejado);
@@ -39,7 +39,7 @@ Terraform é uma ferramenta para construir, alterar e criar versões de infraest
 	- PaaS: Kubernetes, Heroku, Digital Ocean
 	- SaaS: New Relic, Datadog
 
-### Terraform Vs. Outros Softwares
+✅ ***Terraform Vs. Outros Softwares***
 
 Terraform é uma ferramenta de alto nível de orquestração de infraestrutura.
 
@@ -49,6 +49,12 @@ Terraform é uma ferramenta de alto nível de orquestração de infraestrutura.
 
 * CloudFormation e outras ferramentas IaC;
 	- Dá suporte para apenas apenas um vendor específico.
+
+
+
+
+
+
 
 
 Gerenciamento do ciclo de vida dos recursos da AWS, incluindo EC2, Lambda, EKS, ECS, VPC, S3, RDS, DynamoDB e muito mais. Esse provedor é mantido internamente pela equipe do HashiCorp AWS Provider.  
@@ -68,7 +74,7 @@ Interaja com os diversos recursos suportados pelo Oracle Cloud Infrastructure po
 
 
 
-#### ➡️ Links:
+➡️ ***Links:***
 
 [<img title="terraform" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" />][terraform]
 [<img title="terraform Labs" align="left" alt="josenilto | Twitter" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
