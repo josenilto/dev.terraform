@@ -97,7 +97,7 @@ Interaja com os diversos recursos suportados pelo Oracle Cloud Infrastructure po
 
 ➡️ ***Links:***
 
-[<img title="aws" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aws.svg" />][terraform]
+[<img title="aws" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazon.svg" />][terraform]
 [<img title="terraform" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" />][terraform]
 [<img title="terraform Labs" align="left" alt="josenilto | Twitter" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
